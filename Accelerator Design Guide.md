@@ -1,7 +1,10 @@
-## Note: 
-This guide is a work in progress.  If you'd like to dig a bit deeper, please feel free to look in the TODO file for notes.  
 
-We'd like to improve this guide based on your feedback, so please get in touch with any questions, suggestions or comments.
+*Note:* This is a work in progress. If you'd like to dig a bit deeper, please feel free to look in the [TODO](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide%20TODO.md) file for notes.
+
+We'd like to improve this guide based on your feedback, so please [get in touch](mailto:salim@foundercentric.com) with any questions, suggestions or comments
+
+-- Salim
+
 
 # Accelerator Design Guide
 It’s tough to design a programme to accelerate entrepreneurs; their paths aren’t set, their preferences are unknown and their needs aren’t predictable.
