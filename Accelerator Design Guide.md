@@ -1,9 +1,10 @@
-
-*Note:* This is a work in progress. If you'd like to dig a bit deeper, please feel free to look in the [TODO](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide%20TODO.md) file for notes.
+*Note:* This is a work in progress. If you'd like to dig a bit deeper or see where this is going, please feel free to look in the [TODO](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide%20TODO.md) file for notes.
 
 We'd like to improve this guide based on your feedback, so please [get in touch](mailto:salim@foundercentric.com) with any questions, suggestions or comments
 
--- Salim
+*Credits:* Our approach to accelerator design, and thus this guide, would have never found its feet without my initial conversations with Jan Matern of Emerge, Jon Bradford and Sean Kane - then, of Springboard, now Techstars - and John Spindler of Capital Enterprise.  Since we launched Founder-Centric, I've been influenced by other iconoclasts like Paul Orlando of AccelerateHK, Bobby Patterson of Searchcamp, and the work our own Jordan schlipf has lead with truly innovative corporate accelerator programmes like Diane Perlman and Zack Weisfeld at Microsoft, and Conrad Poulson at Orange. I hope this conversation expands to include others so that we can learn from each other and this guide helps us all keep pushing the envelope.
+
+Salim Virani, Partner, Founder-Centric
 
 
 # Accelerator Design Guide
