@@ -66,6 +66,7 @@ Using cards or post-its, set out a week-by-week timeline for your program, tryin
 
 We've created a free card deck to help with this: Founder-Centric Programme Design Cards.
 
+## Guiding Principle: Be clear on what 'accelerates'
 ### What does accelerated mean for your teams?
 From the founders perspective, what goal or milestone can we make happen sooner? The standard accelerator model takes the onward funding round as that goal - bringing it to 3-months instead of 12+-months.
 
