@@ -73,11 +73,17 @@ From the founders perspective, what goal or milestone can we make happen sooner?
 For your startups, the goal doesn't have to be a funding round, but it should be a founder goal that is clearly defined such as an early client, a loan, or a validated business model. It doesn't even need to be objective or measurable, as long as you can somehow evaluate it. A clear definition of this goal will help make other design decisions, and will be the bedrock for improvement with every cohort.
 
 ### What defines progress? What attitude and culture do you want around this?
-Some kind of regular check-up usually helps give you insight into their progress – but consider the tone and focus of these. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss," only sharing the good news and leaving out more ambitious goals.
+Some kind of regular check-up usually helps give you insight into their progress – but consider the tone and focus of these. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss," only sharing the good news, and leaving out more ambitious goals to show they're acheiving their targets.
 
-If you're looking for founders to make frequent course-corrections, for example, it makes sense to ask them to report on learning goals than on metrics. A metrics focus tends to lead to optimisation activities, whereas learning goals keep the focus on fundamentals.
+If you're looking for founders to make frequent course-corrections, for example, it makes sense to ask them to report on learning goals. A metrics focus tends to lead to optimisation activities, whereas learning goals keep the focus on fundamentals.
 
-So it's worth considering what truly defines progress, so your questioning and reporting mechanisms instil the desired culture.
+So it's worth considering what truly defines progress - is it traction? learning? growth? - so your questioning and reporting mechanisms instil the desired culture.
+
+You'll notice the culture will form fairly quickly as the cohort coalesces. There are some ways to influence this:
+
+1. To some degree, this will be driven by a few alpha founders. Be wary of strong personalities that oppose your ideals during selection - they can counter-act your desired attitudes across the cohort.  
+2. Plant seeds in terms of story-telling and hero worship.  Ask in founders for dinner to share their war stories.  Ask them to be inclusive - welcoming the cohort to their club.
+3. Be sensitive to your own behaviour, especially in the first few weeks of the programme.  It's worth being clear and direct in terms of expectations from the outset. But if you catch yourself reprimanding or commanding teams, you'll risk ending up with a primary-school dynamic with your teams, rather than a one that emphasises taking responsibility and being open.  
 
 ### What lead-time can you lower?
 If wheels spin for a team for more than a week, the accelerator is likely to fail them. 
