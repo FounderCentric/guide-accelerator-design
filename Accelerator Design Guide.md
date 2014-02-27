@@ -74,9 +74,9 @@ For your startups, the goal doesn't have to be a funding round, but it should be
 
 
 ### What lead-time can you lower?
-If wheels spin for a team for more than a week, the accelerator is likely to fail them. 
+Before the program, consider the aspects of getting to market where teams will struggle with long lead-times - those are critical time-wasters for teams, and can be eliminated quite easily by readying the accelerator network.
 
-Before the program, consider the aspects of getting to market where teams will struggle with long lead-times. Often, this is in making connections, both customer and industry, but frequently enough, its some form of education or attitude-adjustment which needs time to set in before they can take full advantage of what you have to offer.
+Often, this is in making connections, both customer and industry, but frequently enough, its some form of education or attitude-adjustment which needs time to set in before they can take full advantage of what you have to offer.
 
 It's your job, as an accelerator, to shorten these lead times to days and hours. This means a lot of time over-invested in getting resources, connections and knowledge at the ready.
 
@@ -88,7 +88,11 @@ When the program starts, it's prudent to reevaluate these needs with your teams,
 
 With their noses to the grindstone, it's often tough for teams to look up and realise all their hard work hasn't moved them forward.  With the tight time constraiints of an accelerator, if even a week are two are wasted in this way, that means a large enough gap in momentum that they're unlikely to have the exit velocity required to succeed in the accelerator. 
 
-The hard part is maintaining frequent, open and structured-enough contact with teams so that you can catch this.  Building in peer support mechanisms can help here (more on this below) as can a foosball table. We've found that a special type of reglar meeting can help too, where we simply ask them how it's going on their own terms (not the terms we'd like to impose) and ask where we can help and what's taking longer than exepected.  With 20 minutes once per week, we can get a sense if they're struggling in a number of specific areas - customer empathy, metrics, product, go-to-market, introductions, iteration speed - and flag up specific actions or help we can bring in to unblock them.  We can also compare our notes week-on-week, using a simple paper tool we've designed called [The Cohort Report](https://github.com/FounderCentric/tool-cohort-report).
+The hard part is maintaining frequent, open and structured-enough contact with teams so that you can catch this.
+
+Building in peer support mechanisms can help here (more on this below) as can a foosball table to have informal chats with your founders. 
+
+We've found that a special type of regular meeting can help too, where we simply ask them how it's going on their own terms (not the terms we'd like to impose) and ask where we can help and what's taking longer than exepected.  With 20 minutes once per week, we can get a sense if they're struggling in a number of specific areas - customer empathy, metrics, product, go-to-market, introductions, iteration speed - and flag up specific actions or help we can bring in to unblock them.  We can also compare our notes week-on-week, using a simple paper tool we've designed called [The Cohort Report](https://github.com/FounderCentric/tool-cohort-report).
 
 ### What defines progress? What attitude and culture do you want around this?
 Some kind of regular check-up usually helps give you insight into their progress – but consider the tone and focus of these. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss," only sharing the good news, and leaving out more ambitious goals to show they're acheiving their targets.
