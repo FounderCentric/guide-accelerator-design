@@ -289,3 +289,15 @@ Workshop design
 - storytelling
 - inclusive
 - actually moves them forward, strips away hype and process
+- 
+
+
+
+
+New YC Partner Investment Policy
+by Paul Graham
+As of this batch we're introducing a new policy for investments by YC partners in the companies we fund.
+
+YC partners have invested in the startups we fund since the first batch. In the beginning it was harmless, and occasionally even necessary. And other investors couldn't treat investments by YC partners as much of a signal when I was the only one doing it, because I was so haphazard about it. But over the years this gradually changed, as there came to be more YC partners and they paid more attention to picking likely winners, till by the last couple batches, other investors could treat investment by YC partners as an accurate sign of how promising we thought a startup was. Which meant we were now making it harder for the startups that partners didn't invest in to raise money.
+
+Our new policy is designed to prevent this by depriving other investors of this signal till it's too late. The new rule is that YC partners can't be in the first $500k a company raises, unless it's 3 weeks past Demo Day. And since a startup's fundraising trajectory is almost always established, one way or another, by 3 weeks after Demo Day, this should mean that we can't affect anyone's fundraising unless they've raised $500k, at which point their fundraising is already successful.

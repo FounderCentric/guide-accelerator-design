@@ -1,7 +1,13 @@
-## Note: 
-This guide is a work in progress.  If you'd like to dig a bit deeper, please feel free to look in the TODO file for notes.  
+**Note:** This is a work in progress. If you'd like to dig a bit deeper or see where this is going, please feel free to look in the [TODO](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide%20TODO.md) file for notes.
 
-We'd like to improve this guide based on your feedback, so please get in touch with any questions, suggestions or comments.
+We'd like to improve this guide based on your feedback, so please [get in touch](mailto:salim@foundercentric.com) with any questions, suggestions or comments
+
+**Credits:** Our approach to accelerator design, and thus this guide, would have never found its feet without my initial conversations with Jan Matern of Emerge, Jon Bradford and Sean Kane - then, of Springboard, now Techstars - and John Spindler of Capital Enterprise.  Since we launched Founder-Centric, I've been influenced by other iconoclasts like Paul Orlando of AccelerateHK, Bobby Patterson of Searchcamp, and the work our own Jordan Schlipf has lead with truly innovative corporate accelerator programmes like Diane Perlman and Zack Weisfeld at Microsoft, and Conrad Poulson at Orange. 
+
+I hope this conversation expands to include others so that we can learn from each other. And I hope this guide evolves on that basis, helping us all keep pushing the envelope.
+
+Salim Virani, Partner, Founder-Centric
+
 
 # Accelerator Design Guide
 It’s tough to design a programme to accelerate entrepreneurs; their paths aren’t set, their preferences are unknown and their needs aren’t predictable.
@@ -60,28 +66,49 @@ Using cards or post-its, set out a week-by-week timeline for your program, tryin
 
 We've created a free card deck to help with this: Founder-Centric Programme Design Cards.
 
+## Guiding Principle: Be clear on what 'accelerates'
 ### What does accelerated mean for your teams?
 From the founders perspective, what goal or milestone can we make happen sooner? The standard accelerator model takes the onward funding round as that goal - bringing it to 3-months instead of 12+-months.
 
 For your startups, the goal doesn't have to be a funding round, but it should be a founder goal that is clearly defined such as an early client, a loan, or a validated business model. It doesn't even need to be objective or measurable, as long as you can somehow evaluate it. A clear definition of this goal will help make other design decisions, and will be the bedrock for improvement with every cohort.
 
-### What defines progress? What attitude and culture do you want around this?
-Some kind of regular check-up usually helps give you insight into their progress – but consider the tone and focus of these. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss," only sharing the good news and leaving out more ambitious goals.
-
-If you're looking for founders to make frequent course-corrections, for example, it makes sense to ask them to report on learning goals than on metrics. A metrics focus tends to lead to optimisation activities, whereas learning goals keep the focus on fundamentals.
-
-So it's worth considering what truly defines progress, so your questioning and reporting mechanisms instil the desired culture.
 
 ### What lead-time can you lower?
-If wheels spin for a team for more than a week, the accelerator is likely to fail them. 
+Before the program, consider the aspects of getting to market where teams will struggle with long lead-times - those are critical time-wasters for teams, and can be eliminated quite easily by readying the accelerator network.
 
-Before the program, consider the aspects of getting to market where teams will struggle with long lead-times. Often, this is in making connections, both customer and industry, but frequently enough, its some form of education or attitude-adjustment which needs time to set in before they can take full advantage of what you have to offer.
+Often, this is in making connections, both customer and industry, but frequently enough, its some form of education or attitude-adjustment which needs time to set in before they can take full advantage of what you have to offer.
 
 It's your job, as an accelerator, to shorten these lead times to days and hours. This means a lot of time over-invested in getting resources, connections and knowledge at the ready.
 
 A key point to remember here is that optimising the programme around reducing lead time *for teams* can necessitate wasted effort for the accelerator.  Getting 5 leads ready when the startup only acts on 2 is better than only one lead or 2 leads, a week later, because the startup progresses at an accelerated rate.  The time investment for the acclerator pays off.
 
 When the program starts, it's prudent to reevaluate these needs with your teams, letting them lead the discussion. A Post Up is useful way to do this.
+
+### What wheel-spinning can you reduce?
+
+With their noses to the grindstone, it's often tough for teams to look up and realise all their hard work hasn't moved them forward.  With the tight time constraiints of an accelerator, if even a week are two are wasted in this way, that means a large enough gap in momentum that they're unlikely to have the exit velocity required to succeed in the accelerator. 
+
+The hard part is maintaining frequent, open and structured-enough contact with teams so that you can catch this.
+
+Building in peer support mechanisms can help here (more on this below) as can a foosball table to have informal chats with your founders. 
+
+We've found that a special type of regular meeting can help too, where we simply ask them how it's going on their own terms (not the terms we'd like to impose) and ask where we can help and what's taking longer than exepected.  With 20 minutes once per week, we can get a sense if they're struggling in a number of specific areas - customer empathy, metrics, product, go-to-market, introductions, iteration speed - and flag up specific actions or help we can bring in to unblock them.  We can also compare our notes week-on-week, using a simple paper tool we've designed called [The Cohort Report](https://github.com/FounderCentric/tool-cohort-report).
+
+### What defines progress? What attitude and culture do you want around this?
+Some kind of regular check-up usually helps give you insight into their progress – but consider the tone and focus of these. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss," only sharing the good news, and leaving out more ambitious goals to show they're acheiving their targets.
+
+If you're looking for founders to make frequent course-corrections, for example, it makes sense to ask them to report on learning goals. A metrics focus tends to lead to optimisation activities, whereas learning goals keep the focus on fundamentals.
+
+So it's worth considering what truly defines progress - is it traction? learning? growth? - so your questioning and reporting mechanisms instil the desired culture.
+
+You'll notice the culture will form fairly quickly as the cohort coalesces. There are some ways to influence this:
+
+1. To some degree, this will be driven by a few alpha founders. Be wary of strong personalities that oppose your ideals during selection - they can counter-act your desired attitudes across the cohort.  
+2. Plant seeds in terms of story-telling and hero worship.  Ask in founders for dinner to share their war stories.  Ask them to be inclusive - welcoming the cohort to their club. Read biographies of founders you'd like to see emulated - and tell "did you know?" stories.  Print posters with startup advice, or even imgur memes if appropriate. Get strong quotes printed as vinyl decals for you wall - like in museums.
+3. Be sensitive to your own behaviour, especially in the first few weeks of the programme.  It's worth being clear and direct in terms of expectations from the outset. My typical advice is, "You're all expected to multiply your valuation by 5 or more in the next 90 days. This means you'll have to aim for big leaps and learnng every week - if you're stuck on something for 2 weeks, you're probably a goner. You'll have to get rid of lead times, like waiting for customers or advisors to reply - put the programme to work by asking for the connections you'll need. And you'll be expected to support each other, spot when another startup is stuck and dislodge them." If you catch yourself reprimanding or commanding teams, you'll risk ending up with a primary-school dynamic with your teams, rather than a one that emphasises taking responsibility and being open.  
+
+
+
 
 ## Guiding Principle: Design for the information you need to respond.
 
