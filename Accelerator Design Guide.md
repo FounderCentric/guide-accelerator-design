@@ -85,9 +85,15 @@ When the program starts, it's prudent to reevaluate these needs with your teams,
 
 ## Guiding Principle: Design for the information you need to respond.
 
-Certain tools and formats allow us insight into their choices and progress. We use this
-information to respond to their needs, whether
-implicit or explicit.
+We need information to respond to our founders' needs, whether implicit or explicit.  Ingraining the use of tools and formats that allow us insight into their thinking and decisions can give us this visibility regularly. 
+
+## Tip: Encourage the use of Information Radiators
+Information Radiators are the set of tools and techniques that allow teams visibility into the progress, status and intentions of their team-mates, and their organisation as a whole.  Examples include Kanban boards, thermometers, digital dashboards and traffic lights.  
+
+Information Radiators, whether physical or digital, keep the team in sync. They allow for faster decision making because information is literally literally available at a glance. 
+
+Each team will have its own preferences for dashboards and information-sharing tools.  It's important for us to separate *our* personal tool preferences from the endorsement of information radiators in general.
+
 
 
 ## Guiding Principle: Peer-support

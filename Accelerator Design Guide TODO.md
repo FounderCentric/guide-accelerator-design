@@ -72,6 +72,136 @@ programme relationship forward.
 
 ---
 
+# Selection
+7 Domains
+* PG essays "black swan farming"
+
+
+
+# Disruption
+
+# education vs execution
+# learning vs execution
+tranching vs one-off vs continuous-runway-funding
+
+fitting with universties
+- grading and academic requirements
+- iteration cycle
+
+partners
+- universities - innovation hubs, incubators
+- corporate
+
+---
+Notes from @robfitz interview
+
+# YC 
+Weekly dinners
+copy did 2x a week, and more mentorsr
+
+hands-off
+youre recruiting teams better than you
+touch them just enough to keep them excited
+
+positive peer pressure
+'casual braintrust'
+set the culture as 'what did you do last week?'
+everyone brings their computer
+every conversation happens over dinner, showing what you did
+
+sense of urgency and momentum, peer pressure because other teams
+
+solve every problem, by finding better founders
+
+partner incentives - avoid negative signalling
+
+trances and follow-ons doom the other teams
+
+# vertical vs horizontal accelerators
+
+conrad - rolling acceptances, 
+
+## quarterly get togethers
+seedcamp academy
+
+
+moats and resources
+- hacker news, of course you apply to yc, everyone has you as their homepage
+
+
+power law
+
+best in category
+industries - k12
+local
+customer connection, market - *Rose's accelerator, Germany - paid in media
+
+fred wilson - both sides of the table - blogs
+
+yc doesn't use external mentors or teachers, just 12 partners
+
+alumni network vs mentor network
+
+hookups to pr, investors, credibility
+
+pg was the only point of contact, now lead partners
+
+grab office hours if you want someone else
+
+3 horus dinner
+hour show and tell
+hour talk with food
+hour chatting with the bigwig
+
+#ef rolling demo days
+continued to support bad ones
+
+# hackfwd
+demo day retries / in progress snapshot
+
+brought investors in as mentors  blurring mentoring/investing
+
+
+* carlos - why did they change their mentor day format?
+
+quarterly intakes
+partners make investment decisions
+vet trusted mentors, as referrers
+mentors coach the team up to a credible level, then make the intro
+
+accept team son a rolling basis
+
+2-5d event every quarter, mentoring, demoday
+
+a year of support
+
+* lars - postmortem - every industry - games was hard
+
+
+#yc
+jessica acted as the team's mom. don't worry about legals, etc. here, sign this, make this call. incorporation, banking, etc. doing it with you - 1 hour time cost to teams total.
+
+getting pissed off at teams because you didn't provide the support
+
+
+# on site vs offsite
+don't get distracted
+
+
+# moats
+ycnews
+industry connections
+k12 US - US Charter Schools
+BGV - gov't connections
+Seedcamp - events around Europe
+Celebrities - 500 Startups
+MIT/Stanford?
+37Signals/Tim Ferris - tribes
+Tech Stacks - RoR, PhoneGap, Telerik
+Techstars - brand for dealflow, powered by partnerships, multiple locations for expansion (and MS)
+YC - almost all partners have been through YC, 
+YC - almost all can code
+
 
 
 
