@@ -313,6 +313,7 @@ Our new policy is designed to prevent this by depriving other investors of this 
 
 
 ---
+from http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
 
 Prototype Day
 
@@ -330,5 +331,13 @@ YC hosts a dinner with a prominent startup founder (or Ron Conway) every Tuesday
 
 The most significant value of the Tuesday dinners is that it’s the one time each week when YC turns into a co-working space. Companies arrive hours before dinner. You have many of your office hours for the week, you chat with Kirsty or the Levys (YC’s two lawyers) about a random question you have, you catch up with everyone in the batch, and you get as much user feedback as you can get in the hours before dinner starts.
 
-from http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
+
+One-on-ones / Office Hours
+
+Group presentations
+
+## ITNIG
+## YC
+
+Group office hours happen every two weeks. Our group partners were Paul Buchheit, Kevin Hale, and Kirsty. Group office hours are like regular office hours, except they’re public and shared. Each startup takes a turn giving an update and interacting with the partners. This is useful because it allows you to see the problems that others are facing (and also how they solved them!).
 
