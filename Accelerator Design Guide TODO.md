@@ -301,3 +301,25 @@ As of this batch we're introducing a new policy for investments by YC partners i
 YC partners have invested in the startups we fund since the first batch. In the beginning it was harmless, and occasionally even necessary. And other investors couldn't treat investments by YC partners as much of a signal when I was the only one doing it, because I was so haphazard about it. But over the years this gradually changed, as there came to be more YC partners and they paid more attention to picking likely winners, till by the last couple batches, other investors could treat investment by YC partners as an accurate sign of how promising we thought a startup was. Which meant we were now making it harder for the startups that partners didn't invest in to raise money.
 
 Our new policy is designed to prevent this by depriving other investors of this signal till it's too late. The new rule is that YC partners can't be in the first $500k a company raises, unless it's 3 weeks past Demo Day. And since a startup's fundraising trajectory is almost always established, one way or another, by 3 weeks after Demo Day, this should mean that we can't affect anyone's fundraising unless they've raised $500k, at which point their fundraising is already successful.
+
+
+---
+
+Prototype Day
+
+Prototype Day is one of the best days of YC. It’s like a mini Demo Day. The order of the companies is randomly chosen and every company has a few minutes to present. It’s early on and you still don’t know most of your batchmates all that well. Prototype Day lets you learn about what everyone is doing and a little bit about every person in your batch.
+
+The partners tell you not to prepare. However, we found preparation to be focusing, and we chose to put together a presentation. We used that as an exercise to figure out how we would pitch our idea and company to a large group of people.
+
+After each presentation, PG tells the company’s founders some of the things they did wrong. It’s useful, although it’s best not to be randomly chosen to go first or second. It’s your first introduction to how investors might react to your pitch.
+
+Prototype Day ends in a vote. Every founder gets to vote for two companies, then the vote is tallied, and the top ten companies are announced. I can’t find any of the published results of any past Prototype Day, so I don’t want to give any results, but we did fine.
+
+Dinners
+
+YC hosts a dinner with a prominent startup founder (or Ron Conway) every Tuesday evening. The talks are interesting — more inspiring than informative. A frequent theme is how to not get screwed by your venture capitalists. YC dinners are off-the-record, so I won’t share any of the details of the talks we experienced, but they’re enjoyable.
+
+The most significant value of the Tuesday dinners is that it’s the one time each week when YC turns into a co-working space. Companies arrive hours before dinner. You have many of your office hours for the week, you chat with Kirsty or the Levys (YC’s two lawyers) about a random question you have, you catch up with everyone in the batch, and you get as much user feedback as you can get in the hours before dinner starts.
+
+from http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
+
