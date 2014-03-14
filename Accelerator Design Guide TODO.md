@@ -38,6 +38,15 @@
 
 ## Guiding Principle: Iterate
 ## Guiding Principle: Challenge The Conventional Model
+
+
+# Culture
+## Cohorts
+excitement, peer pressure, comraderie
+going through a journey together
+
+## Non-cohorts
+HackFWD, Labs, 
  
 Disruptive Innovation
 Hard psrts?
