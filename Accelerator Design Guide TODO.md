@@ -341,3 +341,28 @@ Group presentations
 
 Group office hours happen every two weeks. Our group partners were Paul Buchheit, Kevin Hale, and Kirsty. Group office hours are like regular office hours, except they’re public and shared. Each startup takes a turn giving an update and interacting with the partners. This is useful because it allows you to see the problems that others are facing (and also how they solved them!).
 
+# Fundraising and investor relationships
+
+http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
+
+> Fundraising Too Early Before Demo Day
+
+> YC tells you to avoid doing it in the first two months. We did it too early. It was a mistake. In fact, we screwed up our entire fundraising process. Three friends told us that normally people who mess it up so badly can’t recover; we somehow still raised a healthy seed round. I’d say we fucked the whole thing up, except we did end up with millions of dollars. If I ever find the time, I’ll write another post on what not to do, but YC is right: don’t raise money until you’re ready.
+
+> I think that the ideal time is likely about two weeks before Demo Day; at that point you may or may not feel ready, but you’re going to have to be so it’s time to start acting like you are. People ask on Demo Day how much money you’ve raised, and the answer shouldn’t be zero. But if the answer is that you closed the round (or that you got too many “No"s, too early), then that might be just as bad.
+
+> Rehearsal Day
+
+> Roughly a week before Demo Day you have a Rehearsal Day where every company goes through their initial pitch. Every company presents, there is a vote at the end, and you get in-stream advice. In fact, this time PG will just interrupt you with advice. This is the beginning of a week long sprint that culminates with Demo Day.
+
+> You have to practice this presentation so much that, despite its being scripted to the word, down to the second even, you sound perfectly natural. This proved not to be a strong point of mine. I can give good, if not great, off-the-cuff presentations — in fact, I relieved my stress by giving everyone else’s presentations (sometimes in a joking tone) and helping batchmates come up with new phrasing, new ideas, new ordering, etc. But getting down the exact wording that I agreed to with PG? That took me all week.
+
+> Demo Day
+
+> The night before Demo Day is Alumni Demo Day in the same venue; I did not do well. I felt like I spent every single waking moment between that and our presentation on Demo Day practicing. I walked to the Computer History Museum from our Mountain View house giving the presentation to myself over and over and over again.
+
+> I think the first time I gave the presentation perfectly on stage was on Demo Day itself. It was a good time to peak.
+
+> When not presenting at Demo Day, you are surrounded by investors. It’s ten solid hours of answering questions, discussing valuation, and trying to close some deals.
+
+> It was exhausting. It was exhilarating. But that’s YC for ya.
