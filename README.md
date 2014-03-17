@@ -7,4 +7,4 @@ This guide contains tips and prompts to help design an accelerator programme tha
 We'd like to improve this guide based on your feedback, so please [get in touch](mailto:salim@foundercentric.com) with any questions, suggestions or comments
 
 [Salim Virani](http://saintsal.com/about) ([@SaintSal](http://twitter.com/saintsal))
-Partner, Founder-Centric
+Partner, [Founder-Centric](http://foundercentric.com)
