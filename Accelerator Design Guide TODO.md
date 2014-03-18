@@ -366,3 +366,176 @@ http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
 > When not presenting at Demo Day, you are surrounded by investors. It’s ten solid hours of answering questions, discussing valuation, and trying to close some deals.
 
 > It was exhausting. It was exhilarating. But that’s YC for ya.
+
+---
+
+# Orange
+becoming dumb pipe
+future is questionable
+looking at multiple streams to create revenue
+
+## diy
+business plan, budget= comitted to path
+
+rain or shine, they build something
+
+did their own version of netflix, £10M, 3 years, too many features, missed market timing, bad UX
+
+## Acquisisiton spree
+buy a company for 50mil, drop in the bucket, nothing happens
+
+@orange.com email address opens doors
+
+## Accelerator
+Telefonica is running an accelerator and getting praise for being innovative
+
+hold on
+
+5 themes identified
+but need to participate
+
+## Participation
+
+Seeing applications, trends
+But should be more
+
+don't take equity
+VC as an industry is a bad asset class
+get through the noise on the applications
+
+political momentum,
+accelerators are common speak
+but copying the Techstars model is wrong, the goal is different
+
+pipeline - seed stage or post, withing 5 areas of interest
+
+cohort
+rolling heartbeat, how we can help them?
+they are the vehicle for change, not orange
+
+no money, no equity
+instead, they lower sales cycle for b2b
+get meetings, co-sell, then pay for the pilot, get into the market and get the case data
+
+--- quality creation, rather than quality control
+
+unfair advantage
+
+budgets available for coaching and teaching
+discretionary budget based on milestones
+
+pay for trials
+
+goal: be the closest party to the disruptor, and wait for them to be big enough to be acquired and live on in orange
+
+participation: find the skills in orange, run unconferences
+
+orange would ask teams to leave if they're not performing
+
+## MS
+
+no equity, no cash - 3 months programme and demo day
+
+
+Goal: 
+- Public perception: MS used to be a startup, they want back into the conversation
+- Revenue comes from selling software to corporates
+Corporates don't update faster than yearly
+Corporates insist on low bugs
+- Developer ecosystem, who are canaries for new tech, shortening their development time
+
+Cloud: you can't compete on better product, to win, you get them at the beginning.  Same thinking as BizSpark.
+
+You don't have to build on the MS stack, but if you do, we can market and support you. 
+
+Meet the customers, high-powered intros, followed by support if integration is necessary.  Clients see innovation. MS uses that for relationship.
+
+Side benefit: they get more companies on their new platforms.
+
+Dealflow in Tel Aviv: 
+MS puts on and sponsors events
+Dealflow for MS VC
+
+XBOX, Windows Mobile platforms - cross-over with startups innovating
+
+## Oxford
+### Career services
+a taste of startups
+stuff on the CV
+goal: undergrads more employable, entrepreneurial stuff on cv increases grad level employment
+
+the way higher ed is funded is moving from grants to student stipends
+need to retain students, so unis must become customer focused
+international students pay the most
+
+mba used to be to step-change earning potential, doesn't work anymore. mba students are complaining.
+
+unis are claiming verticals and specialisations.
+
+---
+
+incubaters
+searchcamp - uni model
+sbc instannbul partnered with local university
+
+---
+
+
+### EP
+Up to date curriculum
+Traditional: write a business plan, pitch to VCs
+
+### LLP
+"Student-run" , easier to support, "i'm just supporting them"
+Goal: hands-on support in running a business
+Needed a pilot to change curriculum
+Can be used to try new formats for curriculum
+
+
+--- talk to Imperial VC Challenge
+
+
+--- incubator, accelerator progression
+
+
+--- alignment problems - supporter, supportee
+# Demo Day
+- startup or programme?
+- PR for accelerator brand
+- deals for startups
+
+--- Dehype accelerators - mentor and investor burnout
+
+Captable fails
+VAT fails
+Admin in getting signatures
+
+Not doing the paperwork
+Not opening bank accounts
+
+verticals
+uber vertical - eye care, bayer
+
+emerge - well run
+
+dead accelerators
+
+key metrics
+follow on funding, 
+
+growth hack for dealflow, cust
+
+portoflio approach,
+seed stage doesn't have much realistic due diligence
+all about the numbers, dealflow, looking at, investing
+
+applications is a growth hack
+hit a stick at the top 10
+cheap portfolio
+add value (accelerate)
+follow on funding is the one metric that turbo charges applications, and makes fundraising (for the accelerators fund) easier
+
+altruism
+visiblity/participations
+
+
