@@ -38,6 +38,15 @@
 
 ## Guiding Principle: Iterate
 ## Guiding Principle: Challenge The Conventional Model
+
+
+# Culture
+## Cohorts
+excitement, peer pressure, comraderie
+going through a journey together
+
+## Non-cohorts
+HackFWD, Labs, 
  
 Disruptive Innovation
 Hard psrts?
@@ -322,3 +331,232 @@ ARCS
 - relevant				
 - constraints				
 - stage				
+=======
+
+---
+from http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
+
+Prototype Day
+
+Prototype Day is one of the best days of YC. It’s like a mini Demo Day. The order of the companies is randomly chosen and every company has a few minutes to present. It’s early on and you still don’t know most of your batchmates all that well. Prototype Day lets you learn about what everyone is doing and a little bit about every person in your batch.
+
+The partners tell you not to prepare. However, we found preparation to be focusing, and we chose to put together a presentation. We used that as an exercise to figure out how we would pitch our idea and company to a large group of people.
+
+After each presentation, PG tells the company’s founders some of the things they did wrong. It’s useful, although it’s best not to be randomly chosen to go first or second. It’s your first introduction to how investors might react to your pitch.
+
+Prototype Day ends in a vote. Every founder gets to vote for two companies, then the vote is tallied, and the top ten companies are announced. I can’t find any of the published results of any past Prototype Day, so I don’t want to give any results, but we did fine.
+
+Dinners
+
+YC hosts a dinner with a prominent startup founder (or Ron Conway) every Tuesday evening. The talks are interesting — more inspiring than informative. A frequent theme is how to not get screwed by your venture capitalists. YC dinners are off-the-record, so I won’t share any of the details of the talks we experienced, but they’re enjoyable.
+
+The most significant value of the Tuesday dinners is that it’s the one time each week when YC turns into a co-working space. Companies arrive hours before dinner. You have many of your office hours for the week, you chat with Kirsty or the Levys (YC’s two lawyers) about a random question you have, you catch up with everyone in the batch, and you get as much user feedback as you can get in the hours before dinner starts.
+
+
+One-on-ones / Office Hours
+
+Group presentations
+
+## ITNIG
+## YC
+
+Group office hours happen every two weeks. Our group partners were Paul Buchheit, Kevin Hale, and Kirsty. Group office hours are like regular office hours, except they’re public and shared. Each startup takes a turn giving an update and interacting with the partners. This is useful because it allows you to see the problems that others are facing (and also how they solved them!).
+
+# Fundraising and investor relationships
+
+http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned
+
+> Fundraising Too Early Before Demo Day
+
+> YC tells you to avoid doing it in the first two months. We did it too early. It was a mistake. In fact, we screwed up our entire fundraising process. Three friends told us that normally people who mess it up so badly can’t recover; we somehow still raised a healthy seed round. I’d say we fucked the whole thing up, except we did end up with millions of dollars. If I ever find the time, I’ll write another post on what not to do, but YC is right: don’t raise money until you’re ready.
+
+> I think that the ideal time is likely about two weeks before Demo Day; at that point you may or may not feel ready, but you’re going to have to be so it’s time to start acting like you are. People ask on Demo Day how much money you’ve raised, and the answer shouldn’t be zero. But if the answer is that you closed the round (or that you got too many “No"s, too early), then that might be just as bad.
+
+> Rehearsal Day
+
+> Roughly a week before Demo Day you have a Rehearsal Day where every company goes through their initial pitch. Every company presents, there is a vote at the end, and you get in-stream advice. In fact, this time PG will just interrupt you with advice. This is the beginning of a week long sprint that culminates with Demo Day.
+
+> You have to practice this presentation so much that, despite its being scripted to the word, down to the second even, you sound perfectly natural. This proved not to be a strong point of mine. I can give good, if not great, off-the-cuff presentations — in fact, I relieved my stress by giving everyone else’s presentations (sometimes in a joking tone) and helping batchmates come up with new phrasing, new ideas, new ordering, etc. But getting down the exact wording that I agreed to with PG? That took me all week.
+
+> Demo Day
+
+> The night before Demo Day is Alumni Demo Day in the same venue; I did not do well. I felt like I spent every single waking moment between that and our presentation on Demo Day practicing. I walked to the Computer History Museum from our Mountain View house giving the presentation to myself over and over and over again.
+
+> I think the first time I gave the presentation perfectly on stage was on Demo Day itself. It was a good time to peak.
+
+> When not presenting at Demo Day, you are surrounded by investors. It’s ten solid hours of answering questions, discussing valuation, and trying to close some deals.
+
+> It was exhausting. It was exhilarating. But that’s YC for ya.
+
+---
+
+# Orange
+becoming dumb pipe
+future is questionable
+looking at multiple streams to create revenue
+
+## diy
+business plan, budget= comitted to path
+
+rain or shine, they build something
+
+did their own version of netflix, £10M, 3 years, too many features, missed market timing, bad UX
+
+## Acquisisiton spree
+buy a company for 50mil, drop in the bucket, nothing happens
+
+@orange.com email address opens doors
+
+## Accelerator
+Telefonica is running an accelerator and getting praise for being innovative
+
+hold on
+
+5 themes identified
+but need to participate
+
+## Participation
+
+Seeing applications, trends
+But should be more
+
+don't take equity
+VC as an industry is a bad asset class
+get through the noise on the applications
+
+political momentum,
+accelerators are common speak
+but copying the Techstars model is wrong, the goal is different
+
+pipeline - seed stage or post, withing 5 areas of interest
+
+cohort
+rolling heartbeat, how we can help them?
+they are the vehicle for change, not orange
+
+no money, no equity
+instead, they lower sales cycle for b2b
+get meetings, co-sell, then pay for the pilot, get into the market and get the case data
+
+--- quality creation, rather than quality control
+
+unfair advantage
+
+budgets available for coaching and teaching
+discretionary budget based on milestones
+
+pay for trials
+
+goal: be the closest party to the disruptor, and wait for them to be big enough to be acquired and live on in orange
+
+participation: find the skills in orange, run unconferences
+
+orange would ask teams to leave if they're not performing
+
+## MS
+
+no equity, no cash - 3 months programme and demo day
+
+
+Goal: 
+- Public perception: MS used to be a startup, they want back into the conversation
+- Revenue comes from selling software to corporates
+Corporates don't update faster than yearly
+Corporates insist on low bugs
+- Developer ecosystem, who are canaries for new tech, shortening their development time
+
+Cloud: you can't compete on better product, to win, you get them at the beginning.  Same thinking as BizSpark.
+
+You don't have to build on the MS stack, but if you do, we can market and support you. 
+
+Meet the customers, high-powered intros, followed by support if integration is necessary.  Clients see innovation. MS uses that for relationship.
+
+Side benefit: they get more companies on their new platforms.
+
+Dealflow in Tel Aviv: 
+MS puts on and sponsors events
+Dealflow for MS VC
+
+XBOX, Windows Mobile platforms - cross-over with startups innovating
+
+## Oxford
+### Career services
+a taste of startups
+stuff on the CV
+goal: undergrads more employable, entrepreneurial stuff on cv increases grad level employment
+
+the way higher ed is funded is moving from grants to student stipends
+need to retain students, so unis must become customer focused
+international students pay the most
+
+mba used to be to step-change earning potential, doesn't work anymore. mba students are complaining.
+
+unis are claiming verticals and specialisations.
+
+---
+
+incubaters
+searchcamp - uni model
+sbc instannbul partnered with local university
+
+---
+
+
+### EP
+Up to date curriculum
+Traditional: write a business plan, pitch to VCs
+
+### LLP
+"Student-run" , easier to support, "i'm just supporting them"
+Goal: hands-on support in running a business
+Needed a pilot to change curriculum
+Can be used to try new formats for curriculum
+
+
+--- talk to Imperial VC Challenge
+
+
+--- incubator, accelerator progression
+
+
+--- alignment problems - supporter, supportee
+# Demo Day
+- startup or programme?
+- PR for accelerator brand
+- deals for startups
+
+--- Dehype accelerators - mentor and investor burnout
+
+Captable fails
+VAT fails
+Admin in getting signatures
+
+Not doing the paperwork
+Not opening bank accounts
+
+verticals
+uber vertical - eye care, bayer
+
+emerge - well run
+
+dead accelerators
+
+key metrics
+follow on funding, 
+
+growth hack for dealflow, cust
+
+portoflio approach,
+seed stage doesn't have much realistic due diligence
+all about the numbers, dealflow, looking at, investing
+
+applications is a growth hack
+hit a stick at the top 10
+cheap portfolio
+add value (accelerate)
+follow on funding is the one metric that turbo charges applications, and makes fundraising (for the accelerators fund) easier
+
+altruism
+visiblity/participations
+
+
